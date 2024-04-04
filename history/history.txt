@@ -1,0 +1,6 @@
+0 nick1 вошёл в чат.
+1 nick1: asddfdf
+2 nick1: xcvsffg
+3 nick1: sdfgsfg
+4 nick1: sdfgsdfg
+5 nick2 вошёл в чат.

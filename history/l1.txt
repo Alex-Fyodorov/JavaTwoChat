@@ -1,0 +1,26 @@
+nick1
+/l nick1
+nick1: asfasdfs
+nick1: asdfdf
+nick1: asfasdf
+
+Новое подключение.
+/l nick1
+
+Новое подключение.
+/l nick1
+nick2 вошёл в чат.
+/l nick1 nick2
+nick2: sdfsdfgfg
+nick1: dsdsfgsfg
+
+Новое подключение.
+/l nick1
+nick1: asddfdf
+nick1: xcvsffg
+nick1: sdfgsfg
+nick1: sdfgsdfg
+nick2 вошёл в чат.
+/l nick1 nick2
+/l nick1
+nick2 вышел из чата.

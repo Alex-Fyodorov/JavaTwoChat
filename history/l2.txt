@@ -1,0 +1,9 @@
+nick2
+/l nick1 nick2
+nick2: sdfsdfgfg
+nick1: dsdsfgsfg
+/l nick2
+nick1 вышел из чата.
+
+Новое подключение.
+/l nick1 nick2

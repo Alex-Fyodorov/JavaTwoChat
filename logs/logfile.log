@@ -1,0 +1,48 @@
+INFO  2022-04-05 12:46:13 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2022-04-05 12:46:27 [main] server.MyServer (MyServer.java:55) - Клиент подключился
+INFO  2022-04-05 12:46:27 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2022-04-05 12:46:38 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1 вошёл в чат.
+INFO  2022-04-05 12:46:38 [pool-2-thread-1] server.MyServer (MyServer.java:110) - /l nick1
+INFO  2022-04-05 12:46:42 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1: asfasdfs
+INFO  2022-04-05 12:46:44 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1: asdfdf
+INFO  2022-04-05 12:46:45 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1: asfasdf
+INFO  2022-04-05 12:49:24 [pool-2-thread-1] server.MyServer (MyServer.java:110) - /l
+INFO  2022-04-05 12:49:24 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1 вышел из чата.
+INFO  2023-02-13 17:42:25 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2023-02-13 17:42:31 [main] server.MyServer (MyServer.java:55) - Клиент подключился
+INFO  2023-02-13 17:42:31 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2023-02-13 17:42:41 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1 вошёл в чат.
+INFO  2023-02-13 17:42:41 [pool-2-thread-1] server.MyServer (MyServer.java:110) - /l nick1
+INFO  2023-02-13 17:42:55 [pool-2-thread-1] server.MyServer (MyServer.java:110) - /l
+INFO  2023-02-13 17:42:55 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1 вышел из чата.
+INFO  2023-02-13 17:43:54 [main] server.MyServer (MyServer.java:55) - Клиент подключился
+INFO  2023-02-13 17:43:54 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2023-02-13 17:44:04 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1 вошёл в чат.
+INFO  2023-02-13 17:44:04 [pool-2-thread-1] server.MyServer (MyServer.java:110) - /l nick1
+INFO  2023-02-13 17:44:16 [main] server.MyServer (MyServer.java:55) - Клиент подключился
+INFO  2023-02-13 17:44:16 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2023-02-13 17:44:23 [pool-2-thread-4] server.MyServer (MyServer.java:110) - nick2 вошёл в чат.
+INFO  2023-02-13 17:44:23 [pool-2-thread-4] server.MyServer (MyServer.java:110) - /l nick1 nick2
+INFO  2023-02-13 17:44:30 [pool-2-thread-4] server.MyServer (MyServer.java:110) - nick2: sdfsdfgfg
+INFO  2023-02-13 17:44:35 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1: dsdsfgsfg
+INFO  2023-02-13 17:44:38 [pool-2-thread-1] server.MyServer (MyServer.java:110) - /l nick2
+INFO  2023-02-13 17:44:38 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1 вышел из чата.
+INFO  2023-02-13 17:44:40 [pool-2-thread-4] server.MyServer (MyServer.java:110) - /l
+INFO  2023-02-13 17:44:40 [pool-2-thread-4] server.MyServer (MyServer.java:110) - nick2 вышел из чата.
+INFO  2023-02-14 19:17:19 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2023-02-14 19:17:39 [main] server.MyServer (MyServer.java:55) - Клиент подключился
+INFO  2023-02-14 19:17:39 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2023-02-14 19:17:46 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1 вошёл в чат.
+INFO  2023-02-14 19:17:46 [pool-2-thread-1] server.MyServer (MyServer.java:110) - /l nick1
+INFO  2023-02-14 19:17:52 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1: asddfdf
+INFO  2023-02-14 19:17:53 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1: xcvsffg
+INFO  2023-02-14 19:17:54 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1: sdfgsfg
+INFO  2023-02-14 19:17:55 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1: sdfgsdfg
+INFO  2023-02-14 19:18:04 [main] server.MyServer (MyServer.java:55) - Клиент подключился
+INFO  2023-02-14 19:18:04 [main] server.MyServer (MyServer.java:53) - Сервер ожидает подключения.
+INFO  2023-02-14 19:18:10 [pool-2-thread-3] server.MyServer (MyServer.java:110) - nick2 вошёл в чат.
+INFO  2023-02-14 19:18:10 [pool-2-thread-3] server.MyServer (MyServer.java:110) - /l nick1 nick2
+INFO  2023-02-14 19:57:24 [pool-2-thread-3] server.MyServer (MyServer.java:110) - /l nick1
+INFO  2023-02-14 19:57:24 [pool-2-thread-3] server.MyServer (MyServer.java:110) - nick2 вышел из чата.
+INFO  2023-02-14 19:57:29 [pool-2-thread-1] server.MyServer (MyServer.java:110) - /l
+INFO  2023-02-14 19:57:29 [pool-2-thread-1] server.MyServer (MyServer.java:110) - nick1 вышел из чата.
